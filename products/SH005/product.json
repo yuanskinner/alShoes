@@ -1,0 +1,66 @@
+{
+  "product_id": "SH005",
+  "category": "High Heels",
+  "subcategory": "Slingback Pumps",
+  "product_name_en": "Handmade Leather Slingback Pointed Toe Pumps",
+  "product_name_cn": "手工真皮一字带尖头女鞋",
+  "alibaba_title": "Handmade Genuine Leather Slingback High Heel Pumps Women Office Shoes Custom MOQ 30",
+  "keywords": [
+    "slingback pumps women",
+    "handmade leather slingback",
+    "one strap heels",
+    "classic slingback shoes",
+    "office women heels",
+    "elegant pumps",
+    "French heel"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Timeless Slingback - French Elegance</h2><p>Our Handmade Leather Slingback Pumps embody classic French chic with a modern twist. The signature single strap across the heel adds visual interest while ensuring a secure fit, creating a shoe that's both functional and fashionable.</p><p>The elegant pointed toe and stiletto heel create a universally flattering silhouette, while the premium leather construction guarantees comfort and durability.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Nappa)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber heel tip",
+    "heel_type": "Stiletto",
+    "heel_height": "7cm / 9cm",
+    "closure_type": "Slingback strap with buckle",
+    "toe_shape": "Pointed",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, White, Red, Leopard, Custom",
+    "craftsmanship": "Hand-assembled slingback construction",
+    "moq": "30 pairs per color",
+    "lead_time": "25-30 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, heel height, strap width"
+  },
+  "price_range": {
+    "factory_price_usd": "28-36",
+    "suggested_retail_usd": "89-129",
+    "moq_30": "36/pair",
+    "moq_100": "31/pair",
+    "moq_500": "28/pair"
+  },
+  "selling_points": [
+    "Classic French slingback design",
+    "Secure adjustable heel strap",
+    "Premium Nappa leather",
+    "Elegant pointed toe silhouette",
+    "Versatile for office and evening",
+    "Custom colors and heel heights"
+  ],
+  "competitive_score": {
+    "market_demand": 18,
+    "competition_level": 12,
+    "profit_margin": 17,
+    "handcraft_fit": 22,
+    "western_aesthetic": 9,
+    "seasonality_risk": 3,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 90
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/PL2fFtZQBEM/",
+    "side": "https://s.coze.cn/image/dieyHIu8MSg/",
+    "detail_1": "https://s.coze.cn/image/sIiL6JJ8lx8/",
+    "detail_2": "https://s.coze.cn/image/6FOaVxOWC_Q/"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "product_id": "SH008",
+  "category": "High Heels",
+  "subcategory": "Architectural Heel",
+  "product_name_en": "Handmade Leather Architectural Modern Heel Pumps",
+  "product_name_cn": "手工真皮建筑风现代高跟女鞋",
+  "alibaba_title": "Handmade Genuine Leather Architectural Modern Heel Women Pumps Designer Custom MOQ",
+  "keywords": [
+    "architectural heel women",
+    "modern designer heels",
+    "handmade contemporary shoes",
+    "sculptural heel pumps",
+    "artistic footwear",
+    "trending heels 2024",
+    "avant-garde shoes"
+  ],
+  "description_html": "<div class='product-intro'><h2>Sleek Lines and Bold Forms</h2><p>Our Architectural Heel collection draws inspiration from modern architecture and contemporary art. These statement pieces feature bold angular heels with clean lines and unexpected angles, creating a visual impact that's unmatched by conventional designs.</p><p>Despite their striking appearance, these heels are engineered for comfort with proper weight distribution and supportive construction.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Smooth / Textured)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber insert",
+    "heel_type": "Architectural Block Heel",
+    "heel_height": "7cm / 9cm / 11cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Pointed / Square / Open",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, White, Tan, Grey, Custom",
+    "craftsmanship": "Precision-cut architectural heel",
+    "moq": "30 pairs per color",
+    "lead_time": "30-40 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, heel angle design"
+  },
+  "price_range": {
+    "factory_price_usd": "36-46",
+    "suggested_retail_usd": "119-179",
+    "moq_30": "46/pair",
+    "moq_100": "40/pair",
+    "moq_500": "36/pair"
+  },
+  "selling_points": [
+    "Bold architectural heel design",
+    "Contemporary art-inspired aesthetics",
+    "Clean, angular lines",
+    "Engineered for comfort",
+    "Premium leather construction",
+    "Custom design angles available"
+  ],
+  "competitive_score": {
+    "market_demand": 14,
+    "competition_level": 7,
+    "profit_margin": 19,
+    "handcraft_fit": 25,
+    "western_aesthetic": 10,
+    "seasonality_risk": 5,
+    "moq_feasibility": 4,
+    "logistics_friendly": 4,
+    "total": 88
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/0vNe0MVJwsA/",
+    "side": "https://s.coze.cn/image/0CUDvdt5QD0/",
+    "detail_1": "https://s.coze.cn/image/G_izZ5mllJs/",
+    "detail_2": "https://s.coze.cn/image/XYyJ3g4PWCg/"
+  }
+}

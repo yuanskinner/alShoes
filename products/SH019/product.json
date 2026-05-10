@@ -1,0 +1,66 @@
+{
+  "product_id": "SH019",
+  "category": "Loafers",
+  "subcategory": "Platform Loafers",
+  "product_name_en": "Handmade Leather Platform Loafers Chunky Style",
+  "product_name_cn": "手工真皮厚底乐福鞋",
+  "alibaba_title": "Handmade Genuine Leather Platform Loafers Women Chunky Sole Custom MOQ 30 Pairs",
+  "keywords": [
+    "platform loafers women",
+    "chunky loafers",
+    "handmade platform shoes",
+    "women chunky shoes",
+    "lug sole loafers",
+    "elevated loafers",
+    "fashion loafers"
+  ],
+  "description_html": "<div class='product-intro'><h2>Elevated Style with Modern Edge</h2><p>Our Handmade Leather Platform Loafers combine the classic loafer silhouette with a contemporary chunky sole. The platform adds height while the sturdy sole provides comfort and a fashion-forward aesthetic that's perfect for street-style looks.</p><p>These statement loafers are designed for the modern woman who wants to add some edge to her wardrobe without sacrificing comfort.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Premium)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with chunky rubber platform",
+    "heel_type": "Platform / Chunky",
+    "heel_height": "5cm / 6cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Round / Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, White, Brown, Tan, Custom",
+    "craftsmanship": "Hand-stitched with platform construction",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, platform height"
+  },
+  "price_range": {
+    "factory_price_usd": "35-46",
+    "suggested_retail_usd": "109-169",
+    "moq_30": "46/pair",
+    "moq_100": "40/pair",
+    "moq_500": "35/pair"
+  },
+  "selling_points": [
+    "Trendy chunky platform sole",
+    "Added height without discomfort",
+    "Modern street-style aesthetic",
+    "Premium leather upper",
+    "Comfortable for all-day wear",
+    "Custom platform heights"
+  ],
+  "competitive_score": {
+    "market_demand": 17,
+    "competition_level": 11,
+    "profit_margin": 18,
+    "handcraft_fit": 21,
+    "western_aesthetic": 9,
+    "seasonality_risk": 4,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 89
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/xunszA8l4Gg/",
+    "side": "https://s.coze.cn/image/yGt9YWNxFvM/",
+    "detail_1": "https://s.coze.cn/image/j6gyrB1Pffo/",
+    "detail_2": "https://s.coze.cn/image/8RacjL3hb-Y/"
+  }
+}

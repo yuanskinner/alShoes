@@ -1,0 +1,66 @@
+{
+  "product_id": "SH015",
+  "category": "Boots",
+  "subcategory": "Square Toe Boots",
+  "product_name_en": "Handmade Leather Square Toe Ankle Boots",
+  "product_name_cn": "手工真皮方头短靴",
+  "alibaba_title": "Handmade Genuine Leather Square Toe Ankle Boots Women Trendy Custom MOQ 30 Pairs",
+  "keywords": [
+    "square toe boots women",
+    "handmade square toe ankle",
+    "trend boots 2024",
+    "modern square toe",
+    "women fashion boots",
+    "designer square toe",
+    "chunky boots women"
+  ],
+  "description_html": "<div class='product-intro'><h2>Modern Geometry Meets Western Heritage</h2><p>Our Handmade Leather Square Toe Boots are at the forefront of contemporary boot design. The bold square toe creates a striking silhouette that's both modern and evocative of classic Western heritage, making these boots a versatile choice for fashion-conscious buyers.</p><p>These boots feature generous toe room for comfort while maintaining a sharp, architectural look that's perfect for making a statement.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Cowhide)",
+    "lining_material": "Genuine Leather (Pigskin)",
+    "outsole_material": "Leather with rubber anti-slip",
+    "heel_type": "Block / Cuban Heel",
+    "heel_height": "6cm / 8cm",
+    "closure_type": "Zipper / Pull-on / Lace-up",
+    "toe_shape": "Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Brown, Tan, Camel, Custom",
+    "craftsmanship": "Hand-stitched construction",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, closure type, heel height"
+  },
+  "price_range": {
+    "factory_price_usd": "40-52",
+    "suggested_retail_usd": "129-189",
+    "moq_30": "52/pair",
+    "moq_100": "45/pair",
+    "moq_500": "40/pair"
+  },
+  "selling_points": [
+    "Bold square toe design",
+    "Modern Western-inspired style",
+    "Generous toe room for comfort",
+    "Multiple closure options",
+    "Premium cowhide leather",
+    "Fashion-forward aesthetic"
+  ],
+  "competitive_score": {
+    "market_demand": 17,
+    "competition_level": 10,
+    "profit_margin": 18,
+    "handcraft_fit": 22,
+    "western_aesthetic": 10,
+    "seasonality_risk": 5,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 91
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/R9ANsUkq9X8/",
+    "side": "https://s.coze.cn/image/v6_GFP52uOY/",
+    "detail_1": "https://s.coze.cn/image/kFHO392BZWg/",
+    "detail_2": "https://s.coze.cn/image/Zp_EethN8YU/"
+  }
+}

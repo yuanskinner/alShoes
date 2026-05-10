@@ -1,0 +1,66 @@
+{
+  "product_id": "SH004",
+  "category": "High Heels",
+  "subcategory": "Strappy Heeled Sandals",
+  "product_name_en": "Handmade Leather Strappy High Heel Sandals",
+  "product_name_cn": "手工真皮绑带高跟凉鞋",
+  "alibaba_title": "Handmade Genuine Leather Strappy High Heel Sandals Women Party Shoes Custom MOQ 30 Pairs",
+  "keywords": [
+    "strappy high heel sandals",
+    "handmade leather sandals",
+    "ankle strap heels women",
+    "party shoes women",
+    "elegant sandals",
+    "summer heels",
+    "dress sandals"
+  ],
+  "description_html": "<div class='product-intro'><h2>Sophisticated Strappy Design for Special Occasions</h2><p>Our Handmade Leather Strappy High Heel Sandals feature an elegant multi-strap design that wraps around the ankle for a secure fit and striking visual impact. Perfect for parties, weddings, and special events, these sandals combine romantic femininity with modern sophistication.</p><p>The delicate straps are crafted from soft leather that won't irritate the skin, while the sturdy heel provides stability and confident stride.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Soft Calfskin)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber anti-slip",
+    "heel_type": "Stiletto / Block",
+    "heel_height": "8cm / 10cm / 12cm",
+    "closure_type": "Ankle strap with buckle",
+    "toe_shape": "Open toe",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Gold, Silver, Nude, Red, Custom",
+    "craftsmanship": "Hand-woven leather straps",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, strap configuration, color available"
+  },
+  "price_range": {
+    "factory_price_usd": "32-42",
+    "suggested_retail_usd": "99-159",
+    "moq_30": "42/pair",
+    "moq_100": "36/pair",
+    "moq_500": "32/pair"
+  },
+  "selling_points": [
+    "Elegant multi-strap ankle design",
+    "Hand-woven leather strap craftsmanship",
+    "Secure fit with adjustable buckle",
+    "Premium soft calfskin leather",
+    "Perfect for parties and special events",
+    "Multiple heel height options"
+  ],
+  "competitive_score": {
+    "market_demand": 17,
+    "competition_level": 11,
+    "profit_margin": 16,
+    "handcraft_fit": 23,
+    "western_aesthetic": 9,
+    "seasonality_risk": 5,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 90
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/lVp7Y4b34-I/",
+    "side": "https://s.coze.cn/image/3fSoIkWsTx0/",
+    "detail_1": "https://s.coze.cn/image/AC6u5Jujawc/",
+    "detail_2": "https://s.coze.cn/image/XUqhCPdfEzk/"
+  }
+}

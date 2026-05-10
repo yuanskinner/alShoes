@@ -1,0 +1,66 @@
+{
+  "product_id": "SH006",
+  "category": "High Heels",
+  "subcategory": "Peep Toe Heels",
+  "product_name_en": "Handmade Leather Peep Toe High Heel Pumps",
+  "product_name_cn": "手工真皮鱼嘴高跟女鞋",
+  "alibaba_title": "Handmade Genuine Leather Peep Toe High Heel Women Pumps Party Shoes Custom MOQ 30",
+  "keywords": [
+    "peep toe heels women",
+    "handmade peep toe pumps",
+    "open toe high heels",
+    "party shoes women",
+    "leather peep toe",
+    "sexy high heels",
+    "evening heels"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Alluring Peep Toe - A Touch of Sensuality</h2><p>Our Handmade Leather Peep Toe Heels showcase a flirtatious open toe design that reveals just a hint of nail color while maintaining professional elegance. The strategic cut-out adds visual interest and creates the illusion of longer legs.</p><p>Perfect for both office settings and evening events, these versatile heels prove that sophisticated design can also be subtly alluring.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Patent / Smooth)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber tip",
+    "heel_type": "Stiletto / Block",
+    "heel_height": "8cm / 10cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Peep Toe (Open)",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Red, White, Patent Black, Custom",
+    "craftsmanship": "Hand-cut peep toe opening",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, material, opening size"
+  },
+  "price_range": {
+    "factory_price_usd": "28-36",
+    "suggested_retail_usd": "89-129",
+    "moq_30": "36/pair",
+    "moq_100": "31/pair",
+    "moq_500": "28/pair"
+  },
+  "selling_points": [
+    "Flirtatious peep toe design",
+    "Elegant cut-out detail",
+    "Versatile for office and evening",
+    "Premium patent or smooth leather",
+    "Leg-lengthening silhouette",
+    "Custom opening sizes available"
+  ],
+  "competitive_score": {
+    "market_demand": 16,
+    "competition_level": 13,
+    "profit_margin": 17,
+    "handcraft_fit": 22,
+    "western_aesthetic": 9,
+    "seasonality_risk": 4,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 90
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/Vp6Rr49mGZ8/",
+    "side": "https://s.coze.cn/image/U7vPpy3FWXw/",
+    "detail_1": "https://s.coze.cn/image/3TtACnnJlss/",
+    "detail_2": "https://s.coze.cn/image/wcSL5hnR72Y/"
+  }
+}

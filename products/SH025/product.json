@@ -1,0 +1,66 @@
+{
+  "product_id": "SH025",
+  "category": "Sandals",
+  "subcategory": "Woven Leather Sandals",
+  "product_name_en": "Handmade Leather Woven Flat Sandals",
+  "product_name_cn": "手工真皮编织平底凉鞋",
+  "alibaba_title": "Handmade Genuine Leather Woven Flat Sandals Women Boho Summer Custom MOQ 30 Pairs",
+  "keywords": [
+    "woven leather sandals",
+    "handmade braided sandals",
+    "boho sandals women",
+    "flat woven sandals",
+    "summer sandals handmade",
+    "ethnic style sandals",
+    "artisan woven shoes"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Art of Woven Leather Craftsmanship</h2><p>Our Handmade Leather Woven Sandals celebrate the ancient art of leather weaving. Each pair features intricate hand-woven straps that create a stunning visual texture, making these sandals true works of wearable art. The flat design ensures comfort while the woven detail adds bohemian sophistication.</p><p>These artisan-crafted sandals are perfect for free-spirited women who appreciate handcrafted quality.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Soft vegetable-tanned)",
+    "lining_material": "Genuine Leather (Unlined for breathability)",
+    "outsole_material": "Leather with rubber tip",
+    "heel_type": "Flat",
+    "heel_height": "2cm / 3cm",
+    "closure_type": "Slip-on with woven strap",
+    "toe_shape": "Open toe",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Tan, Brown, Natural, Black, Custom",
+    "craftsmanship": "Hand-woven leather straps",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, weave pattern"
+  },
+  "price_range": {
+    "factory_price_usd": "25-33",
+    "suggested_retail_usd": "79-115",
+    "moq_30": "33/pair",
+    "moq_100": "28/pair",
+    "moq_500": "25/pair"
+  },
+  "selling_points": [
+    "Intricate hand-woven leather straps",
+    "Traditional artisan craftsmanship",
+    "Bohemian-inspired design",
+    "Breathable unlined construction",
+    "Soft vegetable-tanned leather",
+    "Custom weave patterns available"
+  ],
+  "competitive_score": {
+    "market_demand": 15,
+    "competition_level": 11,
+    "profit_margin": 17,
+    "handcraft_fit": 25,
+    "western_aesthetic": 9,
+    "seasonality_risk": 5,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 91
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/WTzLMF6u3Mo/",
+    "side": "https://s.coze.cn/image/1qVXF0h7QEI/",
+    "detail_1": "https://s.coze.cn/image/RbUalJW2esQ/",
+    "detail_2": "https://s.coze.cn/image/1BRq6QA-0_Q/"
+  }
+}

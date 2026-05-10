@@ -1,0 +1,66 @@
+{
+  "product_id": "SH007",
+  "category": "High Heels",
+  "subcategory": "Geometric Shaped Heel",
+  "product_name_en": "Handmade Leather Geometric Shaped Heel Pumps",
+  "product_name_cn": "手工真皮几何异形跟女鞋",
+  "alibaba_title": "Handmade Genuine Leather Geometric Shaped Heel Women Pumps Designer Shoes Custom MOQ 30",
+  "keywords": [
+    "geometric heel shoes",
+    "designer shaped heels",
+    "handmade architectural heels",
+    "unique heel design women",
+    "modern high heels",
+    "statement heels",
+    "sculptural heels"
+  ],
+  "description_html": "<div class='product-intro'><h2>Architectural Artistry Meets Wearable Fashion</h2><p>Our Handmade Geometric Shaped Heel Pumps are true works of art. Each pair features a distinctive heel sculpted from premium materials, creating a bold statement piece that's still comfortable enough for all-day wear. The geometric shapes add contemporary flair while maintaining structural integrity.</p><p>These designer-inspired heels are perfect for fashion-forward buyers seeking something truly unique that stands out from mass-produced footwear.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Premium Calfskin)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber anti-slip",
+    "heel_type": "Geometric Shaped Heel",
+    "heel_height": "8cm / 10cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Pointed / Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, White, Tan, Red, Custom",
+    "craftsmanship": "Hand-sculpted geometric heel",
+    "moq": "30 pairs per color",
+    "lead_time": "30-40 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, heel shape design"
+  },
+  "price_range": {
+    "factory_price_usd": "38-48",
+    "suggested_retail_usd": "129-189",
+    "moq_30": "48/pair",
+    "moq_100": "42/pair",
+    "moq_500": "38/pair"
+  },
+  "selling_points": [
+    "Unique geometric heel design",
+    "Architectural-inspired aesthetics",
+    "Hand-sculpted heel construction",
+    "Premium calfskin leather",
+    "Designer-level quality at factory price",
+    "Custom heel shapes available"
+  ],
+  "competitive_score": {
+    "market_demand": 15,
+    "competition_level": 8,
+    "profit_margin": 19,
+    "handcraft_fit": 25,
+    "western_aesthetic": 10,
+    "seasonality_risk": 4,
+    "moq_feasibility": 4,
+    "logistics_friendly": 4,
+    "total": 89
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/jQL38vgU2OA/",
+    "side": "https://s.coze.cn/image/GZqb5StMc9w/",
+    "detail_1": "https://s.coze.cn/image/Co7Bpzj3e0Y/",
+    "detail_2": "https://s.coze.cn/image/VZhXe956KOw/"
+  }
+}

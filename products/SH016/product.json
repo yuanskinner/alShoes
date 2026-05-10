@@ -1,0 +1,66 @@
+{
+  "product_id": "SH016",
+  "category": "Loafers",
+  "subcategory": "Classic Loafers",
+  "product_name_en": "Handmade Leather Classic Penny Loafers",
+  "product_name_cn": "手工真皮经典豆豆乐福鞋",
+  "alibaba_title": "Handmade Genuine Leather Classic Penny Loafers Women Comfortable Slip On Custom MOQ",
+  "keywords": [
+    "penny loafers women",
+    "handmade classic loafers",
+    "leather penny shoes",
+    "women slip on shoes",
+    "office loafers",
+    "comfortable leather shoes",
+    "timeless loafers"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Quintessential Slip-On Shoe</h2><p>Our Handmade Leather Classic Penny Loafers honor the heritage of American prep style while adding modern comfort features. The signature penny slot across the bridge adds a touch of tradition, while the cushioned insole ensures all-day comfort.</p><p>These versatile shoes transition seamlessly from professional settings to casual weekends, making them a wardrobe essential for the modern woman.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Premium Calfskin)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber heel",
+    "heel_type": "Low Block Heel",
+    "heel_height": "3cm / 4cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Round / Pointed",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Brown, Tan, Burgundy, Navy, Custom",
+    "craftsmanship": "Hand-stitched moccasin construction",
+    "moq": "30 pairs per color",
+    "lead_time": "20-30 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, penny strap style"
+  },
+  "price_range": {
+    "factory_price_usd": "28-36",
+    "suggested_retail_usd": "89-129",
+    "moq_30": "36/pair",
+    "moq_100": "31/pair",
+    "moq_500": "28/pair"
+  },
+  "selling_points": [
+    "Classic penny slot detail",
+    "Hand-stitched moccasin construction",
+    "Premium calfskin leather",
+    "Cushioned leather insole",
+    "Versatile for office and casual",
+    "Custom colors available"
+  ],
+  "competitive_score": {
+    "market_demand": 18,
+    "competition_level": 15,
+    "profit_margin": 17,
+    "handcraft_fit": 22,
+    "western_aesthetic": 8,
+    "seasonality_risk": 3,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 92
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/BdMjQB7zKiY/",
+    "side": "https://s.coze.cn/image/IHgzcQ5448c/",
+    "detail_1": "https://s.coze.cn/image/3BP5XudsVzM/",
+    "detail_2": "https://s.coze.cn/image/sAVEbyFM8PI/"
+  }
+}

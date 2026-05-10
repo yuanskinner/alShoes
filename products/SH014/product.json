@@ -1,0 +1,66 @@
+{
+  "product_id": "SH014",
+  "category": "Boots",
+  "subcategory": "Sock Boots",
+  "product_name_en": "Handmade Leather Sock Boots Stretchy Ankle Boots",
+  "product_name_cn": "手工真皮袜靴弹力及踝靴",
+  "alibaba_title": "Handmade Genuine Leather Sock Boots Women Stretchy Ankle Boots Pull On Custom MOQ",
+  "keywords": [
+    "sock boots women",
+    "handmade stretchy boots",
+    "knit leather boots",
+    "second skin boots",
+    "women sock boots designer",
+    "trending boots",
+    "sleek ankle boots"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Second Skin Boot Revolution</h2><p>Our Handmade Leather Sock Boots represent the perfect fusion of material innovation and traditional craftsmanship. These boots feature a unique stretch leather upper that molds to your leg like a second skin, creating a sleek silhouette that's both comfortable and fashion-forward.</p><p>The stretch leather technology allows for easy on/off while maintaining the luxurious look of genuine leather.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Stretch)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber tip",
+    "heel_type": "Block / Stiletto",
+    "heel_height": "6cm / 8cm / 10cm",
+    "closure_type": "Pull-on",
+    "toe_shape": "Pointed / Almond",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Brown, Red, Custom",
+    "craftsmanship": "Stretch leather technology",
+    "moq": "30 pairs per color",
+    "lead_time": "30-40 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, stretch level"
+  },
+  "price_range": {
+    "factory_price_usd": "45-58",
+    "suggested_retail_usd": "149-219",
+    "moq_30": "58/pair",
+    "moq_100": "50/pair",
+    "moq_500": "45/pair"
+  },
+  "selling_points": [
+    "Innovative stretch leather technology",
+    "Second skin fit",
+    "Sleek, body-hugging silhouette",
+    "Premium sheepskin lining",
+    "Easy pull-on design",
+    "Trendy fashion-forward style"
+  ],
+  "competitive_score": {
+    "market_demand": 16,
+    "competition_level": 8,
+    "profit_margin": 19,
+    "handcraft_fit": 24,
+    "western_aesthetic": 10,
+    "seasonality_risk": 5,
+    "moq_feasibility": 4,
+    "logistics_friendly": 4,
+    "total": 90
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/IAgkdqQfCT8/",
+    "side": "https://s.coze.cn/image/tula6kldSQs/",
+    "detail_1": "https://s.coze.cn/image/VNx5C_yLMx8/",
+    "detail_2": "https://s.coze.cn/image/vpRZFoLigZs/"
+  }
+}

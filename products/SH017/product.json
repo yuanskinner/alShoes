@@ -1,0 +1,66 @@
+{
+  "product_id": "SH017",
+  "category": "Loafers",
+  "subcategory": "Fringe Loafers",
+  "product_name_en": "Handmade Leather Fringe Loafer Moccasin",
+  "product_name_cn": "手工真皮流苏乐福莫卡辛鞋",
+  "alibaba_title": "Handmade Genuine Leather Fringe Loafers Women Moccasin Style Custom MOQ 30 Pairs",
+  "keywords": [
+    "fringe loafers women",
+    "handmade fringed shoes",
+    "moccasin loafers",
+    "boho loafers",
+    "women fringed shoes",
+    "western style loafers",
+    "tassel loafers"
+  ],
+  "description_html": "<div class='product-intro'><h2>Bohemian Elegance Meets American Heritage</h2><p>Our Handmade Leather Fringe Loafers celebrate the artisanal traditions of moccasin-making with their signature fringed apron. Each pair features hand-cut and attached leather fringes that add movement and visual interest to the classic loafer silhouette.</p><p>These boots are perfect for those who appreciate craftsmanship and want to add a touch of bohemian flair to their wardrobe.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Suede / Smooth)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber tip",
+    "heel_type": "Low Heel",
+    "heel_height": "3cm / 4cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Round",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Tan, Brown, Cognac, Black, Custom",
+    "craftsmanship": "Hand-attached fringe details",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, fringe length"
+  },
+  "price_range": {
+    "factory_price_usd": "32-42",
+    "suggested_retail_usd": "99-149",
+    "moq_30": "42/pair",
+    "moq_100": "36/pair",
+    "moq_500": "32/pair"
+  },
+  "selling_points": [
+    "Hand-cut leather fringe details",
+    "Traditional moccasin construction",
+    "Soft suede or smooth leather options",
+    "Bohemian-inspired design",
+    "Premium sheepskin lining",
+    "Custom fringe styling"
+  ],
+  "competitive_score": {
+    "market_demand": 15,
+    "competition_level": 10,
+    "profit_margin": 18,
+    "handcraft_fit": 24,
+    "western_aesthetic": 9,
+    "seasonality_risk": 4,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 89
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/3BP5XudsVzM/",
+    "side": "https://s.coze.cn/image/7LZsXZp2l3Q/",
+    "detail_1": "https://s.coze.cn/image/k_ojQ7fxbCA/",
+    "detail_2": "https://s.coze.cn/image/yfzfsQXwSDg/"
+  }
+}

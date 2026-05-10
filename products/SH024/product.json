@@ -1,0 +1,66 @@
+{
+  "product_id": "SH024",
+  "category": "Sandals",
+  "subcategory": "Wedge Sandals",
+  "product_name_en": "Handmade Leather Wedge Heel Sandals",
+  "product_name_cn": "手工真皮坡跟凉鞋",
+  "alibaba_title": "Handmade Genuine Leather Wedge Sandals Women Summer Comfortable Custom MOQ 30 Pairs",
+  "keywords": [
+    "wedge sandals women",
+    "handmade wedge heels",
+    "women summer wedges",
+    "platform sandals",
+    "comfortable high sandals",
+    "espadrille style",
+    "beach wedges"
+  ],
+  "description_html": "<div class='product-intro'><h2>Height and Comfort in Perfect Balance</h2><p>Our Handmade Leather Wedge Sandals offer the height you desire with the stability you need. The signature wedge sole distributes weight evenly, allowing for comfortable all-day wear while still providing that elevated silhouette.</p><p>These versatile sandals transition beautifully from beach to city, making them a summer wardrobe essential.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Smooth / Braided)",
+    "lining_material": "Genuine Leather (Pigskin)",
+    "outsole_material": "Leather wedge with jute",
+    "heel_type": "Wedge",
+    "heel_height": "6cm / 8cm / 10cm",
+    "closure_type": "Ankle strap / Slip-on",
+    "toe_shape": "Open toe / Round",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Tan, Brown, Black, White, Natural, Custom",
+    "craftsmanship": "Hand-assembled wedge construction",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, wedge height"
+  },
+  "price_range": {
+    "factory_price_usd": "30-40",
+    "suggested_retail_usd": "95-145",
+    "moq_30": "40/pair",
+    "moq_100": "34/pair",
+    "moq_500": "30/pair"
+  },
+  "selling_points": [
+    "Stable wedge construction",
+    "All-day comfort design",
+    "Height without instability",
+    "Versatile for beach and city",
+    "Premium leather upper",
+    "Customizable wedge heights"
+  ],
+  "competitive_score": {
+    "market_demand": 17,
+    "competition_level": 14,
+    "profit_margin": 17,
+    "handcraft_fit": 22,
+    "western_aesthetic": 8,
+    "seasonality_risk": 6,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 89
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/il25bVSp2f8/",
+    "side": "https://s.coze.cn/image/HIoG2EHIvGY/",
+    "detail_1": "https://s.coze.cn/image/4v6FrhEJbXw/",
+    "detail_2": "https://s.coze.cn/image/WTzLMF6u3Mo/"
+  }
+}

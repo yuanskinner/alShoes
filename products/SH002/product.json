@@ -1,0 +1,66 @@
+{
+  "product_id": "SH002",
+  "category": "High Heels",
+  "subcategory": "Square Toe Block Heel",
+  "product_name_en": "Handmade Leather Square Toe Block Heel Pumps",
+  "product_name_cn": "手工真皮方头粗跟女鞋",
+  "alibaba_title": "Handmade Genuine Leather Square Toe Block Heel Women Pumps Custom MOQ 30 Pairs",
+  "keywords": [
+    "handmade block heel pumps",
+    "square toe heels women",
+    "leather office heels",
+    "comfortable high heels",
+    "custom women shoes",
+    "block heel dress shoes",
+    "square toe pumps"
+  ],
+  "description_html": "<div class='product-intro'><h2>Modern Sophistication with Superior Comfort</h2><p>Our Handmade Leather Square Toe Block Heel Pumps combine contemporary design with exceptional comfort. The stable block heel provides support without sacrificing elegance, making these perfect for all-day wear in professional settings.</p><p>Crafted from premium Italian leather with meticulous attention to detail, each pair features clean architectural lines and a refined square toe that flatters every foot shape.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Italian Calfskin)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber anti-slip patch",
+    "heel_type": "Block Heel",
+    "heel_height": "6cm / 8cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Tan, Burgundy, Navy, Custom",
+    "craftsmanship": "Hand-stitched Blake construction",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, material, heel height available"
+  },
+  "price_range": {
+    "factory_price_usd": "30-38",
+    "suggested_retail_usd": "95-139",
+    "moq_30": "38/pair",
+    "moq_100": "32/pair",
+    "moq_500": "30/pair"
+  },
+  "selling_points": [
+    "Stable block heel for all-day comfort",
+    "Modern square toe design",
+    "Premium Italian calfskin leather",
+    "Soft sheepskin lining",
+    "Handcrafted by experienced artisans",
+    "Customizable colors and materials"
+  ],
+  "competitive_score": {
+    "market_demand": 17,
+    "competition_level": 12,
+    "profit_margin": 16,
+    "handcraft_fit": 22,
+    "western_aesthetic": 8,
+    "seasonality_risk": 3,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 87
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/9UISZhC-ABo/",
+    "side": "https://s.coze.cn/image/jwHU0O8UcbI/",
+    "detail_1": "https://s.coze.cn/image/Lm9q2RaRaxo/",
+    "detail_2": "https://s.coze.cn/image/lDn4--uWw5s/"
+  }
+}

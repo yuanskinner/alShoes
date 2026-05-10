@@ -1,0 +1,66 @@
+{
+  "product_id": "SH013",
+  "category": "Boots",
+  "subcategory": "Lace-up Ankle Boots",
+  "product_name_en": "Handmade Leather Lace-up Ankle Boots",
+  "product_name_cn": "手工真皮系带及踝靴",
+  "alibaba_title": "Handmade Genuine Leather Lace Up Ankle Boots Women Oxford Style Custom MOQ 30 Pairs",
+  "keywords": [
+    "lace up ankle boots",
+    "handmade oxford boots women",
+    "perforated ankle boots",
+    "women brogue boots",
+    "leather lace up shoes",
+    "combat style boots",
+    "edgy ankle boots"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Perfect Fusion of Oxford and Boot</h2><p>Our Handmade Leather Lace-up Ankle Boots combine the classic appeal of Oxford shoes with the structure of ankle boots. The lace-up design allows for a customized fit while adding a touch of sophistication reminiscent of traditional brogueing.</p><p>These boots are perfect for those who appreciate the craft of traditional shoemaking but want the contemporary edge of modern boot design.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Full Grain)",
+    "lining_material": "Genuine Leather (Pigskin)",
+    "outsole_material": "Leather with rubber sole",
+    "heel_type": "Stacked Block Heel",
+    "heel_height": "5cm / 6cm",
+    "closure_type": "Lace-up front",
+    "toe_shape": "Round / Pointed",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Brown, Tan, Burgundy, Custom",
+    "craftsmanship": "Goodyear welt with broguing",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, brogueing pattern"
+  },
+  "price_range": {
+    "factory_price_usd": "42-54",
+    "suggested_retail_usd": "139-199",
+    "moq_30": "54/pair",
+    "moq_100": "47/pair",
+    "moq_500": "42/pair"
+  },
+  "selling_points": [
+    "Classic Oxford-inspired design",
+    "Customizable lace-up fit",
+    "Traditional brogue detailing",
+    "Goodyear welt construction",
+    "Premium full-grain leather",
+    "Versatile styling options"
+  ],
+  "competitive_score": {
+    "market_demand": 17,
+    "competition_level": 11,
+    "profit_margin": 19,
+    "handcraft_fit": 23,
+    "western_aesthetic": 9,
+    "seasonality_risk": 5,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 93
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/Ha-gFDZrv0M/",
+    "side": "https://s.coze.cn/image/h6BEj-XYo0M/",
+    "detail_1": "https://s.coze.cn/image/WwYdUnfBCfw/",
+    "detail_2": "https://s.coze.cn/image/k2cKea2CVKI/"
+  }
+}

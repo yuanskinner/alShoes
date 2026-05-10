@@ -1,0 +1,66 @@
+{
+  "product_id": "SH020",
+  "category": "Loafers",
+  "subcategory": "Square Toe Loafers",
+  "product_name_en": "Handmade Leather Square Toe Loafers Modern",
+  "product_name_cn": "手工真皮方头乐福鞋现代款",
+  "alibaba_title": "Handmade Genuine Leather Square Toe Loafers Women Modern Office Custom MOQ 30 Pairs",
+  "keywords": [
+    "square toe loafers women",
+    "modern loafers",
+    "handmade square toe shoes",
+    "women square loafers",
+    "office loafers",
+    "contemporary loafers",
+    "architectural shoes"
+  ],
+  "description_html": "<div class='product-intro'><h2>Architectural Lines for the Modern Woman</h2><p>Our Handmade Leather Square Toe Loafers bring a contemporary edge to the classic loafer silhouette. The bold square toe creates a striking, architectural look that's both professional and fashion-forward, perfect for women who want to make a statement in the office.</p><p>These loafers combine the comfort of traditional construction with a modern design aesthetic that's on-trend for the current fashion landscape.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Smooth / Patent)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber anti-slip",
+    "heel_type": "Block Heel",
+    "heel_height": "4cm / 5cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Tan, White, Red, Custom",
+    "craftsmanship": "Hand-stitched construction",
+    "moq": "30 pairs per color",
+    "lead_time": "25-30 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, material"
+  },
+  "price_range": {
+    "factory_price_usd": "30-40",
+    "suggested_retail_usd": "95-149",
+    "moq_30": "40/pair",
+    "moq_100": "34/pair",
+    "moq_500": "30/pair"
+  },
+  "selling_points": [
+    "Bold square toe design",
+    "Modern architectural aesthetic",
+    "Premium smooth or patent leather",
+    "Versatile for office and casual",
+    "Soft sheepskin lining",
+    "Custom colors available"
+  ],
+  "competitive_score": {
+    "market_demand": 16,
+    "competition_level": 12,
+    "profit_margin": 18,
+    "handcraft_fit": 22,
+    "western_aesthetic": 9,
+    "seasonality_risk": 3,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 89
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/4t_aCR_5RbE/",
+    "side": "https://s.coze.cn/image/otiA_EYZ8-Y/",
+    "detail_1": "https://s.coze.cn/image/OmkPpe1ttlI/",
+    "detail_2": "https://s.coze.cn/image/6w9-Z_VbzSM/"
+  }
+}

@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{product_name_en} | Handmade Leather Shoes | OEM Custom</title>
+    <meta name="description" content="{alibaba_title}">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        .header .subtitle {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        .brand-story {
+            background: #f9f5f0;
+            padding: 40px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .brand-story h2 {
+            color: #1a1a2e;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        .brand-story p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        .section {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        .section h2 {
+            color: #1a1a2e;
+            border-bottom: 3px solid #c9a959;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .product-highlights {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .highlight-card {
+            background: #f9f5f0;
+            padding: 25px;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #e0d5c5;
+        }
+        .highlight-card .icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        .highlight-card h3 {
+            color: #1a1a2e;
+            margin-bottom: 10px;
+        }
+        .specs-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        .specs-table th, .specs-table td {
+            padding: 12px 15px;
+            border: 1px solid #e0e0e0;
+            text-align: left;
+        }
+        .specs-table th {
+            background: #1a1a2e;
+            color: white;
+            width: 30%;
+        }
+        .specs-table tr:nth-child(even) {
+            background: #f9f5f0;
+        }
+        .craftsmanship-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+        .craft-item {
+            background: white;
+            border: 1px solid #e0d5c5;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .craft-item img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        .craft-item .content {
+            padding: 15px;
+        }
+        .craft-item h4 {
+            color: #1a1a2e;
+            margin-bottom: 8px;
+        }
+        .craft-item p {
+            font-size: 0.9em;
+            color: #666;
+        }
+        .customization {
+            background: linear-gradient(135deg, #f9f5f0 0%, #fff 100%);
+            padding: 30px;
+            border-radius: 8px;
+            border: 2px solid #c9a959;
+            margin-bottom: 30px;
+        }
+        .customization h2 {
+            color: #c9a959;
+            border-bottom: none;
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .custom-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        .custom-option {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #e0d5c5;
+        }
+        .custom-option strong {
+            color: #1a1a2e;
+        }
+        .size-chart {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        .size-chart th, .size-chart td {
+            padding: 10px 15px;
+            border: 1px solid #e0e0e0;
+            text-align: center;
+        }
+        .size-chart th {
+            background: #1a1a2e;
+            color: white;
+        }
+        .size-chart tr:nth-child(even) {
+            background: #f9f5f0;
+        }
+        .faq {
+            margin-bottom: 30px;
+        }
+        .faq-item {
+            margin-bottom: 15px;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .faq-item h4 {
+            background: #1a1a2e;
+            color: white;
+            padding: 15px;
+            margin: 0;
+        }
+        .faq-item p {
+            padding: 15px;
+            background: #f9f5f0;
+            margin: 0;
+        }
+        .price-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        .price-table th, .price-table td {
+            padding: 12px 15px;
+            border: 1px solid #e0e0e0;
+            text-align: center;
+        }
+        .price-table th {
+            background: #c9a959;
+            color: white;
+        }
+        .price-table tr:nth-child(even) {
+            background: #f9f5f0;
+        }
+        .cta-section {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .cta-section h2 {
+            color: white;
+            border-bottom: none;
+            margin-bottom: 20px;
+        }
+        .cta-section .price {
+            font-size: 2em;
+            color: #c9a959;
+            margin: 20px 0;
+        }
+        .cta-section button {
+            background: #c9a959;
+            color: #1a1a2e;
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.1em;
+            font-weight: bold;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .cta-section button:hover {
+            transform: scale(1.05);
+        }
+        .contact-info {
+            background: #f9f5f0;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.5em;
+            }
+            .product-highlights, .craftsmanship-grid, .custom-options {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>{product_name_en}</h1>
+        <p class="subtitle">{product_name_cn}</p>
+        <p>Handcrafted Excellence | OEM Custom | MOQ 30 Pairs</p>
+    </header>
+
+    <section class="brand-story">
+        <h2>Our Heritage of Craftsmanship</h2>
+        <p>Welcome to our artisanal workshop where traditional shoemaking meets modern design. Located in Chengdu, China, our factory combines generations of craftsmanship expertise with contemporary fashion sensibility to create footwear that stands apart from mass-produced alternatives.</p>
+        <p>Every pair of shoes we produce is a testament to the skill of our master craftsmen. Using time-honored techniques like Goodyear welt construction and hand-stitching, we create footwear that not only looks beautiful but is built to last. We believe in quality over quantity, craftsmanship over shortcuts.</p>
+        <p>Our commitment to excellence means we source only the finest materials - premium full-grain leathers, soft sheepskin linings, and durable soles. Each shoe undergoes rigorous quality control to ensure it meets our exacting standards before reaching your customers.</p>
+    </section>
+
+    <section class="section">
+        <h2>Product Highlights</h2>
+        <div class="product-highlights">
+            <div class="highlight-card">
+                <div class="icon">🎯</div>
+                <h3>Premium Materials</h3>
+                <p>{spec_upper_material}</p>
+            </div>
+            <div class="highlight-card">
+                <div class="icon">✂️</div>
+                <h3>Handcrafted Quality</h3>
+                <p>{spec_craftsmanship}</p>
+            </div>
+            <div class="highlight-card">
+                <div class="icon">👌</div>
+                <h3>Comfort Design</h3>
+                <p>{spec_lining_material}</p>
+            </div>
+            <div class="highlight-card">
+                <div class="icon">📏</div>
+                <h3>Customizable</h3>
+                <p>{spec_customization}</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>Product Specifications</h2>
+        <table class="specs-table">
+            <tr>
+                <th>Upper Material</th>
+                <td>{spec_upper_material}</td>
+            </tr>
+            <tr>
+                <th>Lining Material</th>
+                <td>{spec_lining_material}</td>
+            </tr>
+            <tr>
+                <th>Outsole Material</th>
+                <td>{spec_outsole_material}</td>
+            </tr>
+            <tr>
+                <th>Heel Type</th>
+                <td>{spec_heel_type}</td>
+            </tr>
+            <tr>
+                <th>Heel Height</th>
+                <td>{spec_heel_height}</td>
+            </tr>
+            <tr>
+                <th>Closure Type</th>
+                <td>{spec_closure_type}</td>
+            </tr>
+            <tr>
+                <th>Toe Shape</th>
+                <td>{spec_toe_shape}</td>
+            </tr>
+            <tr>
+                <th>Sizes Available</th>
+                <td>{spec_sizes_available}</td>
+            </tr>
+            <tr>
+                <th>Colors Available</th>
+                <td>{spec_colors_available}</td>
+            </tr>
+            <tr>
+                <th>Lead Time</th>
+                <td>{spec_lead_time}</td>
+            </tr>
+            <tr>
+                <th>MOQ</th>
+                <td>{spec_moq}</td>
+            </tr>
+            <tr>
+                <th>Packaging</th>
+                <td>{spec_packaging}</td>
+            </tr>
+        </table>
+    </section>
+
+    <section class="section">
+        <h2>Craftsmanship & Construction</h2>
+        <div class="craftsmanship-grid">
+            <div class="craft-item">
+                <img src="{detail_image_1}" alt="Leather Quality">
+                <div class="content">
+                    <h4>Premium Leather Selection</h4>
+                    <p>We source only the finest full-grain leathers that develop beautiful patina over time while maintaining structural integrity.</p>
+                </div>
+            </div>
+            <div class="craft-item">
+                <img src="{detail_image_2}" alt="Heel Construction">
+                <div class="content">
+                    <h4>Expert Heel Construction</h4>
+                    <p>Our heels are engineered for both stability and style, featuring proper weight distribution for comfortable wear.</p>
+                </div>
+            </div>
+            <div class="craft-item">
+                <img src="{detail_image_3}" alt="Stitching Detail">
+                <div class="content">
+                    <h4>Hand-Stitched Details</h4>
+                    <p>Every seam is carefully stitched by skilled artisans using techniques passed down through generations.</p>
+                </div>
+            </div>
+            <div class="craft-item">
+                <img src="{detail_image_4}" alt="Insole Comfort">
+                <div class="content">
+                    <h4>Comfort Insole</h4>
+                    <p>Soft leather-lined insoles provide cushioning and support for all-day comfort.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="customization">
+        <h2>Customization Services</h2>
+        <p style="text-align: center; margin-bottom: 20px;">We offer comprehensive OEM/ODM services to meet your brand requirements. All customizations maintain our high-quality standards.</p>
+        <div class="custom-options">
+            <div class="custom-option">
+                <strong>Custom Logo</strong><br>
+                Embossed, engraved, or metal logo options
+            </div>
+            <div class="custom-option">
+                <strong>Color Options</strong><br>
+                Standard colors + custom color matching
+            </div>
+            <div class="custom-option">
+                <strong>Material Choices</strong><br>
+                Various leather types and finishes
+            </div>
+            <div class="custom-option">
+                <strong>Heel Heights</strong><br>
+                Customizable heel heights available
+            </div>
+            <div class="custom-option">
+                <strong>Packaging</strong><br>
+                Custom boxes, dust bags, and wraps
+            </div>
+            <div class="custom-option">
+                <strong>Size Ranges</strong><br>
+                EU 35-42, US 5-11, or custom sizing
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>Size Chart</h2>
+        <table class="size-chart">
+            <thead>
+                <tr>
+                    <th>EU Size</th>
+                    <th>US Size</th>
+                    <th>UK Size</th>
+                    <th>Foot Length (cm)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>35</td><td>5</td><td>3</td><td>22.5</td></tr>
+                <tr><td>36</td><td>6</td><td>4</td><td>23</td></tr>
+                <tr><td>37</td><td>6.5</td><td>4.5</td><td>23.5</td></tr>
+                <tr><td>38</td><td>7.5</td><td>5.5</td><td>24</td></tr>
+                <tr><td>39</td><td>8.5</td><td>6.5</td><td>24.5</td></tr>
+                <tr><td>40</td><td>9</td><td>7</td><td>25</td></tr>
+                <tr><td>41</td><td>10</td><td>8</td><td>25.5</td></tr>
+                <tr><td>42</td><td>11</td><td>9</td><td>26</td></tr>
+            </tbody>
+        </table>
+        <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Note: If your customers are between sizes, we recommend sizing up. Custom sizes are available upon request.</em></p>
+    </section>
+
+    <section class="section">
+        <h2>Packaging & Logistics</h2>
+        <table class="specs-table">
+            <tr>
+                <th>Standard Packaging</th>
+                <td>Individual dust bag + Sturdy shoebox</td>
+            </tr>
+            <tr>
+                <th>Custom Packaging</th>
+                <td>Available (custom boxes, tissue paper, ribbons, hang tags)</td>
+            </tr>
+            <tr>
+                <th>Shipping</th>
+                <td>FOB Shanghai / CIF available</td>
+            </tr>
+            <tr>
+                <th>Lead Time</th>
+                <td>25-35 working days (varies by order quantity)</td>
+            </tr>
+            <tr>
+                <th>Sample Time</th>
+                <td>7-10 working days</td>
+            </tr>
+        </table>
+    </section>
+
+    <section class="section">
+        <h2>Frequently Asked Questions</h2>
+        <div class="faq">
+            <div class="faq-item">
+                <h4>Q: What is your minimum order quantity?</h4>
+                <p>A: Our standard MOQ is 30 pairs per color. For larger orders, we offer better pricing tiers at 100+ and 500+ pairs.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Q: Can I get samples before bulk order?</h4>
+                <p>A: Yes, we offer sample production. Sample fee is typically 2x the unit price plus shipping. Sample time is 7-10 working days.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Q: What customization options are available?</h4>
+                <p>A: We offer custom logo (embossed/engraved/metal), custom colors, custom materials, custom heel heights, custom packaging, and more.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Q: What is your quality control process?</h4>
+                <p>A: Every pair undergoes multi-point inspection including material check, construction review, and final quality assessment before shipping.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Q: Do you offer dropshipping services?</h4>
+                <p>A: Yes, we can fulfill orders directly to your customers with blind packaging and custom branding.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Q: What payment terms do you accept?</h4>
+                <p>A: For new clients, we typically require 30% deposit and 70% balance before shipping. T/T, PayPal, and Alibaba Trade Assurance are accepted.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta-section">
+        <h2>Ready to Partner with Us?</h2>
+        <p>Experience the quality difference of true handcrafted footwear</p>
+        <div class="price">
+            Factory Price: ${price_low}-${price_high} / Pair<br>
+            <span style="font-size: 0.5em; color: #ccc;">MOQ: 30 pairs per color</span>
+        </div>
+        <p>Contact us today to discuss your requirements and receive a detailed quotation.</p>
+        <div class="contact-info">
+            <p><strong>We respond within 24 hours</strong></p>
+            <p>Trade Manager: Available | WhatsApp: Available | Email: inquiry@example.com</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>Thank you for considering our handcrafted footwear. We look forward to building a long-term partnership with you.</p>
+        <p style="margin-top: 10px;">© 2024 Chengdu Handcrafted Shoes Factory | Premium Leather Footwear Manufacturer</p>
+    </footer>
+</body>
+</html>

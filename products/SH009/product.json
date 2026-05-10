@@ -1,0 +1,66 @@
+{
+  "product_id": "SH009",
+  "category": "High Heels",
+  "subcategory": "Sculptural Heel",
+  "product_name_en": "Handmade Leather Sculptural Curved Heel Pumps",
+  "product_name_cn": "手工真皮雕塑感曲线跟女鞋",
+  "alibaba_title": "Handmade Genuine Leather Sculptural Curved Heel Women Pumps Luxury Designer Custom MOQ",
+  "keywords": [
+    "sculptural curved heel",
+    "curved stiletto women",
+    "handmade curved heel shoes",
+    "luxury designer heels",
+    "organic shape heels",
+    "artistic footwear",
+    "flowing heel design"
+  ],
+  "description_html": "<div class='product-intro'><h2>Organic Beauty in Every Step</h2><p>Our Sculptural Curved Heel collection celebrates organic forms and flowing lines. Each curved heel is meticulously shaped by hand, creating a graceful silhouette that transitions smoothly from heel to sole. The result is a shoe that feels as sculptural as it is comfortable.</p><p>Inspired by natural forms and contemporary sculpture, these heels add an artistic dimension to any outfit.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Premium)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with curved rubber tip",
+    "heel_type": "Sculptural Curved Heel",
+    "heel_height": "8cm / 10cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Pointed / Almond",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Red, Tan, Custom",
+    "craftsmanship": "Hand-carved sculptural heel",
+    "moq": "30 pairs per color",
+    "lead_time": "30-45 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, curve intensity"
+  },
+  "price_range": {
+    "factory_price_usd": "40-52",
+    "suggested_retail_usd": "139-199",
+    "moq_30": "52/pair",
+    "moq_100": "45/pair",
+    "moq_500": "40/pair"
+  },
+  "selling_points": [
+    "Organic sculptural curved heel",
+    "Hand-carved craftsmanship",
+    "Graceful flowing silhouette",
+    "Art-inspired design",
+    "Premium leather upper",
+    "Customizable curve intensity"
+  ],
+  "competitive_score": {
+    "market_demand": 13,
+    "competition_level": 6,
+    "profit_margin": 20,
+    "handcraft_fit": 25,
+    "western_aesthetic": 10,
+    "seasonality_risk": 5,
+    "moq_feasibility": 4,
+    "logistics_friendly": 4,
+    "total": 87
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/kWIMttAHwcc/",
+    "side": "https://s.coze.cn/image/bWTBIyyErww/",
+    "detail_1": "https://s.coze.cn/image/d3ibSt7hu7g/",
+    "detail_2": "https://s.coze.cn/image/CzJ0aoi6VW8/"
+  }
+}

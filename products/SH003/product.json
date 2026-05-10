@@ -1,0 +1,66 @@
+{
+  "product_id": "SH003",
+  "category": "High Heels",
+  "subcategory": "Kitten Heel",
+  "product_name_en": "Handmade Leather Kitten Heel Pointed Pumps",
+  "product_name_cn": "手工真皮猫跟尖头女鞋",
+  "alibaba_title": "Handmade Genuine Leather Kitten Heel Women Pumps Elegant Office Shoes Custom MOQ",
+  "keywords": [
+    "kitten heel pumps",
+    "handmade low heels women",
+    "elegant office heels",
+    "leather kitten heels",
+    "classic women shoes",
+    "petite heels",
+    "day heels women"
+  ],
+  "description_html": "<div class='product-intro'><h2>Elegant Low Heels for Effortless Style</h2><p>Our Handmade Leather Kitten Heel Pumps offer the perfect balance of sophistication and comfort. The subtle 4-5cm heel provides just enough lift while ensuring all-day wearability, making them ideal for office professionals and those who prefer understated elegance.</p><p>The pointed toe design elongates the leg while maintaining a feminine silhouette, and the premium leather construction ensures these become more beautiful with each wear.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Full Grain)",
+    "lining_material": "Genuine Leather (Pigskin)",
+    "outsole_material": "Leather with rubber heel",
+    "heel_type": "Kitten Heel",
+    "heel_height": "4cm / 5cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Pointed",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Red, Blush, Custom",
+    "craftsmanship": "Hand-stitched construction",
+    "moq": "30 pairs per color",
+    "lead_time": "20-30 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, material available"
+  },
+  "price_range": {
+    "factory_price_usd": "25-32",
+    "suggested_retail_usd": "79-109",
+    "moq_30": "32/pair",
+    "moq_100": "27/pair",
+    "moq_500": "25/pair"
+  },
+  "selling_points": [
+    "Comfortable kitten heel for all-day wear",
+    "Elegant pointed toe design",
+    "Premium genuine leather",
+    "Soft pigskin lining",
+    "Versatile for office and casual",
+    "Customization available"
+  ],
+  "competitive_score": {
+    "market_demand": 16,
+    "competition_level": 14,
+    "profit_margin": 18,
+    "handcraft_fit": 21,
+    "western_aesthetic": 8,
+    "seasonality_risk": 3,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 89
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/yIWeOX5mww0/",
+    "side": "https://s.coze.cn/image/uiNPluUFt1I/",
+    "detail_1": "https://s.coze.cn/image/ieLZy_5sDBg/",
+    "detail_2": "https://s.coze.cn/image/KeuYK_CFL6s/"
+  }
+}

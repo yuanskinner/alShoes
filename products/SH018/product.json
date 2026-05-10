@@ -1,0 +1,66 @@
+{
+  "product_id": "SH018",
+  "category": "Loafers",
+  "subcategory": "Horsebit Loafers",
+  "product_name_en": "Handmade Leather Horsebit Loafers Designer Style",
+  "product_name_cn": "手工真皮马衔扣乐福鞋设计师款",
+  "alibaba_title": "Handmade Genuine Leather Horsebit Loafers Women Designer Style Custom MOQ 30 Pairs",
+  "keywords": [
+    "horsebit loafers women",
+    "handmade bit loafers",
+    "Gucci style loafers",
+    "women designer loafers",
+    "double bit shoes",
+    "luxury loafers",
+    "classic bit shoes"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Iconic Horsebit Design Reimagined</h2><p>Our Handmade Leather Horsebit Loafers pay homage to the legendary design while showcasing our own craftsmanship excellence. The signature double-bit hardware adds a touch of heritage luxury, while the premium leather construction ensures lasting quality.</p><p>These sophisticated loafers are perfect for those who appreciate classic design and want to invest in shoes that will remain stylish for years to come.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Premium Calfskin)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber insert",
+    "heel_type": "Low Heel",
+    "heel_height": "3cm / 4cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Round / Pointed",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Brown, Tan, Burgundy, Custom",
+    "craftsmanship": "Hand-stitched with brass hardware",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, hardware finish"
+  },
+  "price_range": {
+    "factory_price_usd": "35-45",
+    "suggested_retail_usd": "109-159",
+    "moq_30": "45/pair",
+    "moq_100": "39/pair",
+    "moq_500": "35/pair"
+  },
+  "selling_points": [
+    "Classic horsebit hardware detail",
+    "Premium calfskin leather",
+    "Quality brass hardware",
+    "Heritage luxury aesthetic",
+    "Soft sheepskin lining",
+    "Customizable hardware finish"
+  ],
+  "competitive_score": {
+    "market_demand": 16,
+    "competition_level": 12,
+    "profit_margin": 18,
+    "handcraft_fit": 23,
+    "western_aesthetic": 9,
+    "seasonality_risk": 3,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 90
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/k_ojQ7fxbCA/",
+    "side": "https://s.coze.cn/image/2qOYNaP1lBc/",
+    "detail_1": "https://s.coze.cn/image/93Yda1aUulw/",
+    "detail_2": "https://s.coze.cn/image/Er1iJXx3Qac/"
+  }
+}

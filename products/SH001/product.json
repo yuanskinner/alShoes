@@ -1,0 +1,66 @@
+{
+  "product_id": "SH001",
+  "category": "High Heels",
+  "subcategory": "Pointed Toe Stiletto",
+  "product_name_en": "Handmade Italian Leather Pointed Toe Stiletto Pumps",
+  "product_name_cn": "手工意式牛皮尖头细跟高跟鞋",
+  "alibaba_title": "Handmade Genuine Leather Pointed Toe Stiletto High Heel Pumps Women Custom Logo MOQ 30 Pairs",
+  "keywords": [
+    "handmade women heels",
+    "leather stiletto pumps",
+    "pointed toe heels",
+    "custom high heels",
+    "OEM women shoes",
+    "Italian leather pumps",
+    "women dress shoes"
+  ],
+  "description_html": "<div class='product-intro'><h2>Classic Elegance Meets Handcrafted Excellence</h2><p>Experience the perfect fusion of timeless design and artisanal craftsmanship with our Handmade Italian Leather Pointed Toe Stiletto Pumps. These exquisite heels represent the pinnacle of luxury footwear, meticulously crafted by skilled artisans in our Chengdu workshop.</p><p>Each pair features premium full-grain cowhide leather that develops a beautiful patina over time, ensuring lasting quality and comfort. The sleek pointed toe elongates your silhouette while the classic stiletto heel adds sophisticated height.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Full Grain Cowhide)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber anti-slip patch",
+    "heel_type": "Stiletto",
+    "heel_height": "8cm / 10cm",
+    "closure_type": "Slip-on",
+    "toe_shape": "Pointed",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Red, White, Custom",
+    "craftsmanship": "Hand-stitched Goodyear welt construction",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, material, heel height available"
+  },
+  "price_range": {
+    "factory_price_usd": "28-35",
+    "suggested_retail_usd": "89-129",
+    "moq_30": "35/pair",
+    "moq_100": "30/pair",
+    "moq_500": "28/pair"
+  },
+  "selling_points": [
+    "Handcrafted by skilled artisans in Chengdu, China",
+    "Premium full-grain cowhide upper for durability and comfort",
+    "Goodyear welt construction ensures resoleability",
+    "Customizable heel height (5cm-12cm)",
+    "Soft sheepskin lining for all-day comfort",
+    "Anti-slip rubber patch on leather sole"
+  ],
+  "competitive_score": {
+    "market_demand": 18,
+    "competition_level": 10,
+    "profit_margin": 17,
+    "handcraft_fit": 23,
+    "western_aesthetic": 9,
+    "seasonality_risk": 4,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 90
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/zYO1PRgMldU/",
+    "side": "https://s.coze.cn/image/BhNiNGD3lcQ/",
+    "detail_1": "https://s.coze.cn/image/kycE8LtsIb8/",
+    "detail_2": "https://s.coze.cn/image/SnvHkqO-1uQ/"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "product_id": "SH022",
+  "category": "Sandals",
+  "subcategory": "Square Toe Sandals",
+  "product_name_en": "Handmade Leather Square Toe Block Heel Sandals",
+  "product_name_cn": "手工真皮方头粗跟凉鞋",
+  "alibaba_title": "Handmade Genuine Leather Square Toe Block Heel Sandals Women Summer Custom MOQ 30",
+  "keywords": [
+    "square toe sandals women",
+    "block heel sandals",
+    "handmade summer sandals",
+    "women square sandals",
+    "office sandals",
+    "comfortable heeled sandals",
+    "fashion sandals"
+  ],
+  "description_html": "<div class='product-intro'><h2>Modern Square Design Meets Comfort</h2><p>Our Handmade Leather Square Toe Sandals combine contemporary aesthetics with practical comfort. The sturdy block heel provides stability for all-day wear, while the square toe creates a bold, architectural silhouette that's perfect for modern women.</p><p>These versatile sandals work equally well in professional settings and casual outings.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Smooth / Textured)",
+    "lining_material": "Genuine Leather (Pigskin)",
+    "outsole_material": "Leather with rubber anti-slip",
+    "heel_type": "Block Heel",
+    "heel_height": "5cm / 7cm",
+    "closure_type": "Slip-on / Ankle strap",
+    "toe_shape": "Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Tan, Brown, White, Custom",
+    "craftsmanship": "Hand-stitched construction",
+    "moq": "30 pairs per color",
+    "lead_time": "20-30 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, strap style"
+  },
+  "price_range": {
+    "factory_price_usd": "28-38",
+    "suggested_retail_usd": "89-139",
+    "moq_30": "38/pair",
+    "moq_100": "32/pair",
+    "moq_500": "28/pair"
+  },
+  "selling_points": [
+    "Bold square toe design",
+    "Stable block heel for comfort",
+    "Versatile for work and casual",
+    "Premium leather options",
+    "All-day wearability",
+    "Custom colors available"
+  ],
+  "competitive_score": {
+    "market_demand": 18,
+    "competition_level": 14,
+    "profit_margin": 16,
+    "handcraft_fit": 21,
+    "western_aesthetic": 8,
+    "seasonality_risk": 5,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 91
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/a7iuEbQIMjs/",
+    "side": "https://s.coze.cn/image/7m9nlQXYalo/",
+    "detail_1": "https://s.coze.cn/image/afYYDRvV5sQ/",
+    "detail_2": "https://s.coze.cn/image/OeBN2qyTSw8/"
+  }
+}

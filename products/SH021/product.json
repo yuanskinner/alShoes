@@ -1,0 +1,66 @@
+{
+  "product_id": "SH021",
+  "category": "Sandals",
+  "subcategory": "Strappy High Heel Sandals",
+  "product_name_en": "Handmade Leather Strappy High Heel Sandals",
+  "product_name_cn": "手工真皮绑带细高跟凉鞋",
+  "alibaba_title": "Handmade Genuine Leather Strappy High Heel Sandals Women Party Evening Custom MOQ",
+  "keywords": [
+    "strappy high heel sandals",
+    "handmade heeled sandals",
+    "women party sandals",
+    "evening sandals",
+    "summer high heels",
+    "elegant sandals",
+    "dress sandals"
+  ],
+  "description_html": "<div class='product-intro'><h2>Elegant Straps for Effortless Glamour</h2><p>Our Handmade Leather Strappy High Heel Sandals feature delicate multiple straps that create a visually stunning design while providing secure support. The intertwined straps add an artistic element, making these sandals perfect for special occasions and evening events.</p><p>Each strap is carefully cut and attached by hand to ensure perfect alignment and lasting durability.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Soft Calfskin / Satin)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber tip",
+    "heel_type": "Stiletto",
+    "heel_height": "8cm / 10cm / 12cm",
+    "closure_type": "Ankle strap with buckle",
+    "toe_shape": "Open toe",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Gold, Silver, Nude, Red, Custom",
+    "craftsmanship": "Hand-woven strap design",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, strap pattern, color"
+  },
+  "price_range": {
+    "factory_price_usd": "32-42",
+    "suggested_retail_usd": "99-159",
+    "moq_30": "42/pair",
+    "moq_100": "36/pair",
+    "moq_500": "32/pair"
+  },
+  "selling_points": [
+    "Delicate multi-strap design",
+    "Hand-woven strap craftsmanship",
+    "Secure ankle strap closure",
+    "Perfect for parties and events",
+    "Premium soft leather options",
+    "Multiple heel height choices"
+  ],
+  "competitive_score": {
+    "market_demand": 17,
+    "competition_level": 13,
+    "profit_margin": 17,
+    "handcraft_fit": 23,
+    "western_aesthetic": 9,
+    "seasonality_risk": 6,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 90
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/jqKbmsw6dow/",
+    "side": "https://s.coze.cn/image/Mslj-NwSRs8/",
+    "detail_1": "https://s.coze.cn/image/cbTnHSi3EnE/",
+    "detail_2": "https://s.coze.cn/image/S8oJB39pUC4/"
+  }
+}

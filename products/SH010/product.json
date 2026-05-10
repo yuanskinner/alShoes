@@ -1,0 +1,66 @@
+{
+  "product_id": "SH010",
+  "category": "High Heels",
+  "subcategory": "Crystal Embellished Heel",
+  "product_name_en": "Handmade Leather Crystal Embellished High Heel Pumps",
+  "product_name_cn": "手工真皮水晶装饰高跟女鞋",
+  "alibaba_title": "Handmade Genuine Leather Crystal Embellished Heel Women Pumps Party Evening Custom MOQ",
+  "keywords": [
+    "crystal heel women",
+    "embellished high heels",
+    "handmade crystal shoes",
+    "rhinestone heel pumps",
+    "party shoes women",
+    "evening heel designer",
+    "luxury embellished heels"
+  ],
+  "description_html": "<div class='product-intro'><h2>Sparkle and Elegance Combined</h2><p>Our Crystal Embellished Heel collection transforms classic pumps into dazzling statement pieces. Each heel is carefully adorned with hand-applied crystals, creating a luxurious shimmer that catches the light with every step. Perfect for special occasions, bridal wear, and celebration moments.</p><p>The crystals are securely attached using professional techniques to ensure they stay in place while maintaining their brilliant sparkle.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Patent / Satin)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with crystal-decorated heel",
+    "heel_type": "Crystal Embellished Stiletto",
+    "heel_height": "8cm / 10cm",
+    "closure_type": "Slip-on / Slingback",
+    "toe_shape": "Pointed / Peep Toe",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Silver, Gold, Black, Nude, Rose Gold, Custom",
+    "craftsmanship": "Hand-applied crystal embellishment",
+    "moq": "30 pairs per color",
+    "lead_time": "30-40 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, crystal pattern, color combinations"
+  },
+  "price_range": {
+    "factory_price_usd": "42-55",
+    "suggested_retail_usd": "149-229",
+    "moq_30": "55/pair",
+    "moq_100": "48/pair",
+    "moq_500": "42/pair"
+  },
+  "selling_points": [
+    "Hand-applied crystal embellishments",
+    "Brilliant sparkle effect",
+    "Premium patent or satin leather",
+    "Perfect for weddings and parties",
+    "Secure crystal attachment",
+    "Custom crystal patterns available"
+  ],
+  "competitive_score": {
+    "market_demand": 16,
+    "competition_level": 9,
+    "profit_margin": 20,
+    "handcraft_fit": 24,
+    "western_aesthetic": 10,
+    "seasonality_risk": 5,
+    "moq_feasibility": 4,
+    "logistics_friendly": 4,
+    "total": 92
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/wCelWLiTw5Q/",
+    "side": "https://s.coze.cn/image/XoJ1GldqpY4/",
+    "detail_1": "https://s.coze.cn/image/_dP9PJysn1U/",
+    "detail_2": "https://s.coze.cn/image/MiaduFhMVnA/"
+  }
+}

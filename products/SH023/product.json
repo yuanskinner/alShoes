@@ -1,0 +1,66 @@
+{
+  "product_id": "SH023",
+  "category": "Sandals",
+  "subcategory": "Mule Sandals",
+  "product_name_en": "Handmade Leather Mule Sandals Backless",
+  "product_name_cn": "手工真皮穆勒凉鞋",
+  "alibaba_title": "Handmade Genuine Leather Mule Sandals Women Backless Slip On Custom MOQ 30 Pairs",
+  "keywords": [
+    "mule sandals women",
+    "backless sandals",
+    "handmade mule shoes",
+    "women slippers sandals",
+    "minimalist sandals",
+    "easy wear sandals",
+    "slide sandals"
+  ],
+  "description_html": "<div class='product-intro'><h2>The Effortless Elegance of Backless Design</h2><p>Our Handmade Leather Mule Sandals embrace the modern trend of minimalist elegance. The backless design offers easy slip-on wear while the premium leather and craftsmanship ensure these aren't just basic slides but sophisticated footwear worthy of any occasion.</p><p>Perfect for those who appreciate effortless style, these mules add a touch of luxury to any outfit.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Smooth / Suede)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber tip",
+    "heel_type": "Block / Kitten / Wedge",
+    "heel_height": "4cm / 6cm / 8cm",
+    "closure_type": "Slip-on (backless)",
+    "toe_shape": "Pointed / Round / Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Nude, Tan, White, Red, Custom",
+    "craftsmanship": "Hand-stitched mule construction",
+    "moq": "30 pairs per color",
+    "lead_time": "20-30 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, heel type"
+  },
+  "price_range": {
+    "factory_price_usd": "26-35",
+    "suggested_retail_usd": "79-119",
+    "moq_30": "35/pair",
+    "moq_100": "30/pair",
+    "moq_500": "26/pair"
+  },
+  "selling_points": [
+    "Effortless backless design",
+    "Easy slip-on wear",
+    "Multiple heel options",
+    "Premium leather craftsmanship",
+    "Minimalist modern aesthetic",
+    "Custom heel heights"
+  ],
+  "competitive_score": {
+    "market_demand": 19,
+    "competition_level": 15,
+    "profit_margin": 16,
+    "handcraft_fit": 20,
+    "western_aesthetic": 9,
+    "seasonality_risk": 5,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 93
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/7OprJB9F93I/",
+    "side": "https://s.coze.cn/image/VyKNB_Z3FhY/",
+    "detail_1": "https://s.coze.cn/image/wONCHvWzlHg/",
+    "detail_2": "https://s.coze.cn/image/cO9e-_gR8t0/"
+  }
+}

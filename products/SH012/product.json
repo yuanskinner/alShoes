@@ -1,0 +1,66 @@
+{
+  "product_id": "SH012",
+  "category": "Boots",
+  "subcategory": "Zip Ankle Boots",
+  "product_name_en": "Handmade Leather Zip Ankle Boots",
+  "product_name_cn": "手工真皮拉链及踝靴",
+  "alibaba_title": "Handmade Genuine Leather Zip Ankle Boots Women Side Zipper Custom MOQ 30 Pairs",
+  "keywords": [
+    "zip ankle boots women",
+    "handmade leather zipper boots",
+    "side zip boots",
+    "women ankle boots designer",
+    "western boots",
+    "trendy ankle boots",
+    "functional zipper boots"
+  ],
+  "description_html": "<div class='product-intro'><h2>Urban Edge Meets Refined Craft</h2><p>Our Handmade Leather Zip Ankle Boots feature a sleek side zipper closure that adds modern functionality to classic boot design. The zipper not only provides easy on/off but also creates a stylish detail that enhances the boot's visual appeal.</p><p>These boots are crafted from premium leather with meticulous attention to detail, from the quality of the zipper hardware to the precision of the stitching.</p></div>",
+  "specifications": {
+    "upper_material": "Genuine Leather (Premium Cowhide)",
+    "lining_material": "Genuine Leather (Sheepskin)",
+    "outsole_material": "Leather with rubber anti-slip",
+    "heel_type": "Block / Cuban Heel",
+    "heel_height": "6cm / 8cm",
+    "closure_type": "Side zipper with lace-up",
+    "toe_shape": "Round / Pointed / Square",
+    "sizes_available": "EU 35-42 / US 5-11",
+    "colors_available": "Black, Brown, Tan, Cognac, Custom",
+    "craftsmanship": "Hand-stitched with YKK zipper",
+    "moq": "30 pairs per color",
+    "lead_time": "25-35 working days",
+    "packaging": "Individual dust bag + box",
+    "customization": "Custom logo, color, zipper style, heel type"
+  },
+  "price_range": {
+    "factory_price_usd": "40-52",
+    "suggested_retail_usd": "129-189",
+    "moq_30": "52/pair",
+    "moq_100": "45/pair",
+    "moq_500": "40/pair"
+  },
+  "selling_points": [
+    "Premium YKK zipper hardware",
+    "Modern side zipper detail",
+    "Functional lace-up support",
+    "Premium cowhide leather",
+    "Soft sheepskin lining",
+    "Custom heel options"
+  ],
+  "competitive_score": {
+    "market_demand": 18,
+    "competition_level": 13,
+    "profit_margin": 18,
+    "handcraft_fit": 22,
+    "western_aesthetic": 9,
+    "seasonality_risk": 6,
+    "moq_feasibility": 5,
+    "logistics_friendly": 4,
+    "total": 91
+  },
+  "images": {
+    "main": "https://s.coze.cn/image/vSg3RtAQBls/",
+    "side": "https://s.coze.cn/image/roxbKUv2l84/",
+    "detail_1": "https://s.coze.cn/image/R9ANsUkq9X8/",
+    "detail_2": "https://s.coze.cn/image/K31HOVEsh6c/"
+  }
+}
