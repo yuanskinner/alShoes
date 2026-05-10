@@ -58,9 +58,9 @@
     "total": 91
   },
   "images": {
-    "main": "https://s.coze.cn/image/R9ANsUkq9X8/",
-    "side": "https://s.coze.cn/image/v6_GFP52uOY/",
-    "detail_1": "https://s.coze.cn/image/kFHO392BZWg/",
-    "detail_2": "https://s.coze.cn/image/Zp_EethN8YU/"
+    "main": "images/main.jpg",
+    "side": "images/side.jpg",
+    "detail_1": "images/detail_1.jpg",
+    "detail_2": "images/detail_2.jpg"
   }
 }
