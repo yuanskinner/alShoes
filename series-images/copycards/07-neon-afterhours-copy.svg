@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#161322"/>
+<rect x="760" y="0" width="440" height="700" fill="#ef4c9a" opacity="0.16"/>
+<path d="M760 0 C910 180 1000 260 1200 330 L1200 700 L850 700 C900 500 850 250 760 0Z" fill="#ef4c9a" opacity="0.18"/>
+<text x="72" y="90" fill="#ef4c9a" font-family="Arial, sans-serif" font-size="24" letter-spacing="4">ALSHOES / ORIGINAL FOOTWEAR CONCEPT 07</text>
+<text x="72" y="188" fill="#ffffff" font-family="Arial, sans-serif" font-size="58" font-weight="700">霓虹折光</text>
+<text x="76" y="236" fill="#ffffff" opacity="0.72" font-family="Arial, sans-serif" font-size="26" letter-spacing="2">Neon Afterhours</text>
+<line x1="76" y1="300" x2="660" y2="300" stroke="#ef4c9a" stroke-width="3"/>
+<text x="76" y="370" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="600">夜色有光，鞋型不喧哗。</text>
+<foreignObject x="76" y="430" width="610" height="150"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:22px;line-height:1.55;color:#fff;opacity:.82">面向高级夜店与深夜社交场景，以黑色缎面、石墨皮革和克制金属反光制造识别度。保留性感氛围，但不使用色情姿态、夸张水钻或舞台道具。</div></foreignObject>
+<text x="76" y="650" fill="#ffffff" opacity="0.55" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">MINIMAL / PREMIUM / ORIGINAL / NO LOGO</text>
+<circle cx="1000" cy="330" r="135" fill="none" stroke="#ef4c9a" stroke-width="2" opacity="0.7"/><circle cx="1000" cy="330" r="95" fill="none" stroke="#ef4c9a" stroke-width="1" opacity="0.45"/><path d="M880 430 C955 350 1045 310 1125 220" fill="none" stroke="#ef4c9a" stroke-width="5" opacity="0.55"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#6f817b"/>
+<rect x="760" y="0" width="440" height="700" fill="#d9c7a1" opacity="0.16"/>
+<path d="M760 0 C910 180 1000 260 1200 330 L1200 700 L850 700 C900 500 850 250 760 0Z" fill="#d9c7a1" opacity="0.18"/>
+<text x="72" y="90" fill="#d9c7a1" font-family="Arial, sans-serif" font-size="24" letter-spacing="4">ALSHOES / ORIGINAL FOOTWEAR CONCEPT 02</text>
+<text x="72" y="188" fill="#ffffff" font-family="Arial, sans-serif" font-size="58" font-weight="700">月影青瓷</text>
+<text x="76" y="236" fill="#ffffff" opacity="0.72" font-family="Arial, sans-serif" font-size="26" letter-spacing="2">Moonlit Celadon</text>
+<line x1="76" y1="300" x2="660" y2="300" stroke="#d9c7a1" stroke-width="3"/>
+<text x="76" y="370" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="600">温润不喧哗，留白也有重量。</text>
+<foreignObject x="76" y="430" width="610" height="150"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:22px;line-height:1.55;color:#fff;opacity:.82">从青瓷的灰绿色阶与柔和边缘获得灵感，以月牙开口和圆润鞋跟完成现代转译，不复制传统纹样，也不做纪念品式装饰。</div></foreignObject>
+<text x="76" y="650" fill="#ffffff" opacity="0.55" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">MINIMAL / PREMIUM / ORIGINAL / NO LOGO</text>
+<circle cx="1000" cy="330" r="135" fill="none" stroke="#d9c7a1" stroke-width="2" opacity="0.7"/><circle cx="1000" cy="330" r="95" fill="none" stroke="#d9c7a1" stroke-width="1" opacity="0.45"/><path d="M880 430 C955 350 1045 310 1125 220" fill="none" stroke="#d9c7a1" stroke-width="5" opacity="0.55"/>
+</svg>
