@@ -1,6 +1,6 @@
 # Series implementation: English copy and design system
 
-This implementation keeps every existing image unchanged. It adds English Instagram copy, motif integration, signature hardware and styling notes for the existing 13 designs, then defines and generates concept images for 12 new series.
+This implementation keeps every existing image unchanged. It adds English Instagram copy, motif integration, signature hardware and styling notes for the existing 13 designs, then defines and generates a complete five-image set for 12 new series.
 
 ## New concept image index
 
@@ -20,6 +20,25 @@ The 12 new concept images are stored separately from the existing image sets; no
 | Galilee Light | [view](../series-images/23-galilee-light.jpg) |
 | Thorn & Mercy | [view](../series-images/24-thorn-mercy.jpg) |
 | European Bestiary | [view](../series-images/25-european-bestiary.jpg) |
+
+## Complete image sets for the 12 new series
+
+Each new series has a concept image, materials board, technical sketch, multi-angle product sheet and on-foot styling image. The existing 13 series were not modified.
+
+| Series | Materials | Sketch | Multi-angle | On-foot |
+|---|---|---|---|---|
+| Aegean Olive | [view](../series-images/14-aegean-olive-materials.jpg) | [view](../series-images/14-aegean-olive-sketch.jpg) | [view](../series-images/14-aegean-olive-multiview.jpg) | [view](../series-images/14-aegean-olive-onfoot.jpg) |
+| Cretan Labyrinth | [view](../series-images/15-cretan-labyrinth-materials.jpg) | [view](../series-images/15-cretan-labyrinth-sketch.jpg) | [view](../series-images/15-cretan-labyrinth-multiview.jpg) | [view](../series-images/15-cretan-labyrinth-onfoot.jpg) |
+| Azure Dragon Cloud | [view](../series-images/16-azure-dragon-cloud-materials.jpg) | [view](../series-images/16-azure-dragon-cloud-sketch.jpg) | [view](../series-images/16-azure-dragon-cloud-multiview.jpg) | [view](../series-images/16-azure-dragon-cloud-onfoot.jpg) |
+| Vermilion Phoenix | [view](../series-images/17-vermilion-phoenix-materials.jpg) | [view](../series-images/17-vermilion-phoenix-sketch.jpg) | [view](../series-images/17-vermilion-phoenix-multiview.jpg) | [view](../series-images/17-vermilion-phoenix-onfoot.jpg) |
+| Qilin Bronze Seal | [view](../series-images/18-qilin-bronze-seal-materials.jpg) | [view](../series-images/18-qilin-bronze-seal-sketch.jpg) | [view](../series-images/18-qilin-bronze-seal-multiview.jpg) | [view](../series-images/18-qilin-bronze-seal-onfoot.jpg) |
+| Thunderbird Skybreak | [view](../series-images/19-thunderbird-skybreak-materials.jpg) | [view](../series-images/19-thunderbird-skybreak-sketch.jpg) | [view](../series-images/19-thunderbird-skybreak-multiview.jpg) | [view](../series-images/19-thunderbird-skybreak-onfoot.jpg) |
+| Coyote Moon | [view](../series-images/20-coyote-moon-materials.jpg) | [view](../series-images/20-coyote-moon-sketch.jpg) | [view](../series-images/20-coyote-moon-multiview.jpg) | [view](../series-images/20-coyote-moon-onfoot.jpg) |
+| Lotus Mandala | [view](../series-images/21-lotus-mandala-materials.jpg) | [view](../series-images/21-lotus-mandala-sketch.jpg) | [view](../series-images/21-lotus-mandala-multiview.jpg) | [view](../series-images/21-lotus-mandala-onfoot.jpg) |
+| Bodhi Wheel | [view](../series-images/22-bodhi-wheel-materials.jpg) | [view](../series-images/22-bodhi-wheel-sketch.jpg) | [view](../series-images/22-bodhi-wheel-multiview.jpg) | [view](../series-images/22-bodhi-wheel-onfoot.jpg) |
+| Galilee Light | [view](../series-images/23-galilee-light-materials.jpg) | [view](../series-images/23-galilee-light-sketch.jpg) | [view](../series-images/23-galilee-light-multiview.jpg) | [view](../series-images/23-galilee-light-onfoot.jpg) |
+| Thorn & Mercy | [view](../series-images/24-thorn-mercy-materials.jpg) | [view](../series-images/24-thorn-mercy-sketch.jpg) | [view](../series-images/24-thorn-mercy-multiview.jpg) | [view](../series-images/24-thorn-mercy-onfoot.jpg) |
+| European Bestiary | [view](../series-images/25-european-bestiary-materials.jpg) | [view](../series-images/25-european-bestiary-sketch.jpg) | [view](../series-images/25-european-bestiary-multiview.jpg) | [view](../series-images/25-european-bestiary-onfoot.jpg) |
 
 ## Shared collaboration and authorization line
 
@@ -357,6 +376,6 @@ Use **complimentary trial** to describe the free trial offer. Confirm shipping, 
 >
 > #EuropeanHeritage #BestiaryInspired #OriginalFootwear #ModernCraft
 
-## Approval checkpoint
+## Production status
 
-After approval, the next production pass should generate one image set at a time for the 12 new series. Existing 13 images remain unchanged. For each approved new series, generate the concept image, material board, sketch, multi-angle view and on-foot image using the approved motif and hardware language above.
+The 12 new series now have their concept, materials, sketch, multi-angle and on-foot images. Existing 13 images remain unchanged. All generated assets are compressed JPGs so the repository can be browsed without the combined-image payload error.
