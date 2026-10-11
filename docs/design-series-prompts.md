@@ -15,6 +15,19 @@
 | 漆夜柔光 | 用酒红漆皮的受光面与黑色雾面皮革形成夜间层次，性感来自光线和比例。 | [查看图片](../series-images/05-lacquer-after-dark.png) |
 | 午夜缎幕 | 将晚宴缎面的垂坠和褶光转成不对称鞋面带，强调穿着姿态而非暴露或夸张装饰。 | [查看图片](../series-images/06-midnight-drapery.png) |
 
+## 完整五图套组
+
+每个系列均已生成：主视觉、设计素材、设计手稿、多角度鞋款和上脚效果。
+
+| 系列 | 主视觉 | 设计素材 | 设计手稿 | 多角度 | 上脚效果 |
+|---|---|---|---|---|---|
+| 静线雕塑 | [图 1](../series-images/01-silent-line-sculpture.png) | [图 2](../series-images/01-silent-line-sculpture-materials.png) | [图 3](../series-images/01-silent-line-sculpture-sketch.png) | [图 4](../series-images/01-silent-line-sculpture-multiview.png) | [图 5](../series-images/01-silent-line-sculpture-onfoot.png) |
+| 月影青瓷 | [图 1](../series-images/02-moonlit-celadon.png) | [图 2](../series-images/02-moonlit-celadon-materials.png) | [图 3](../series-images/02-moonlit-celadon-sketch.png) | [图 4](../series-images/02-moonlit-celadon-multiview.png) | [图 5](../series-images/02-moonlit-celadon-onfoot.png) |
+| 赤羽留白 | [图 1](../series-images/03-vermilion-wing-space.png) | [图 2](../series-images/03-vermilion-wing-space-materials.png) | [图 3](../series-images/03-vermilion-wing-space-sketch.png) | [图 4](../series-images/03-vermilion-wing-space-multiview.png) | [图 5](../series-images/03-vermilion-wing-space-onfoot.png) |
+| 隐痕织艺 | [图 1](../series-images/04-invisible-weave.png) | [图 2](../series-images/04-invisible-weave-materials.png) | [图 3](../series-images/04-invisible-weave-sketch.png) | [图 4](../series-images/04-invisible-weave-multiview.png) | [图 5](../series-images/04-invisible-weave-onfoot.png) |
+| 漆夜柔光 | [图 1](../series-images/05-lacquer-after-dark.png) | [图 2](../series-images/05-lacquer-after-dark-materials.png) | [图 3](../series-images/05-lacquer-after-dark-sketch.png) | [图 4](../series-images/05-lacquer-after-dark-multiview.png) | [图 5](../series-images/05-lacquer-after-dark-onfoot.png) |
+| 午夜缎幕 | [图 1](../series-images/06-midnight-drapery.png) | [图 2](../series-images/06-midnight-drapery-materials.png) | [图 3](../series-images/06-midnight-drapery-sketch.png) | [图 4](../series-images/06-midnight-drapery-multiview.png) | [图 5](../series-images/06-midnight-drapery-onfoot.png) |
+
 ## 统一设计规则
 
 - 目标：面向欧美中高端消费者的简约高级女鞋，突出比例、材质和工艺，不依赖堆砌装饰。
