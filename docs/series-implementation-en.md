@@ -1,6 +1,6 @@
 # Series implementation: English copy and design system
 
-This implementation keeps every existing image unchanged. It adds English Instagram copy, motif integration, signature hardware and styling notes for the existing 13 designs, then defines 12 new series for the next image-generation phase.
+This implementation keeps every existing image unchanged. It adds English Instagram copy, motif integration, signature hardware and styling notes for the existing 13 designs, then defines and generates concept images for 12 new series.
 
 ## New concept image index
 
